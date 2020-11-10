@@ -1,0 +1,14 @@
+appVersion: 1.0.0
+description: Proxy to yts and eztv
+home: https://github.com/duartejbrito
+keywords:
+- proxy
+- yts
+- eztv
+maintainers:
+- email: sytertzp@gmail.com
+  name: Duarte Brito
+name: proxy
+sources:
+- https://github.com/duartejbrito/djab.proxy
+version: 1.0.0

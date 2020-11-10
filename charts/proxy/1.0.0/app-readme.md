@@ -1,1 +1,1 @@
-# Proxy ROCKS!
+# Proxy to YTS and EZTV
